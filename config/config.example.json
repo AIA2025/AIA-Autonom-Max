@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "DEIN_OPENAI_API_KEY_HIER",
+  "shopify_access_token": "DEIN_SHOPIFY_ACCESS_TOKEN_HIER",
+  "shopify_password": "DEIN_SHOPIFY_PASSWORD_HIER",
+  "github_personal_access_token": "DEIN_GITHUB_PAT_HIER"
+}

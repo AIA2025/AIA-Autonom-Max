@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: aia-autonom-max
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python3 main.py"
+    branch: main
+    envVars:
+      - fromDotEnv: true
